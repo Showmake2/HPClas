@@ -4,7 +4,8 @@
 
 
 
-![image.png](attachment:af4c7f4f-7851-494e-a913-61e721a39a40.png)
+<img width="659" alt="图片1" src="https://github.com/Showmake2/HPClas/assets/134044269/9772024b-19b6-4317-a33e-b5e93aaebc7e">
+
 
 ## Code details
 
@@ -41,6 +42,7 @@ cd HPClas
 ```
 
 ## Usage
+* For more convenient use of HPClas, decompress the feature/train.rar in advance.
 
 * Run the default dataset
 ```
