@@ -42,7 +42,6 @@ cd HPClas
 ```
 
 ## Usage
-* For more convenient use of HPClas, decompress the feature/train.rar in advance.
 
 * Run the default dataset
 ```
