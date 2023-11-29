@@ -4,7 +4,8 @@
 
 
 
-![image.png](attachment:af4c7f4f-7851-494e-a913-61e721a39a40.png)
+<img width="659" alt="图片1" src="https://github.com/Showmake2/HPClas/assets/134044269/9772024b-19b6-4317-a33e-b5e93aaebc7e">
+
 
 ## Code details
 
@@ -24,8 +25,8 @@ The features descriptors including Amino Acid Composition (AAC), the Composition
 ## Dataset
 * train_P.fasta: postives samples for training 
 * train_N.fasta: negative samples for training
-* indep_test_P.fasta: postives samples for testing 
-* indep_test_N.fasta: negative samples for testing
+* test_P.fasta: postives samples for testing 
+* test_N.fasta: negative samples for testing
 * Experimental_validation_set.fasta: samples validated by wet experiments
 
 
