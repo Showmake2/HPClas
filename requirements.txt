@@ -1,7 +1,0 @@
-catboost==1.0.6
-joblib==1.1.1
-skikit-learn==1.2.1
-imbalabced-learn==0.10.1
-numpy==1.23.5
-pandas==1.5.2
-
