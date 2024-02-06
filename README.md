@@ -35,7 +35,7 @@ The features descriptors including Amino Acid Composition (AAC), the Composition
 
 *  Install from Github 
 ```python
-git clone https://github.com/xxx
+git clone https://github.com/Showmake2/HPClas
 cd HPClas
 
 ```
