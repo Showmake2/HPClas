@@ -14,7 +14,7 @@ import math
 
 
 def loadmodel():
-    catBoost_model_path = "model/catBoost_model.pkl"
+    catBoost_model_path = "model/catboost_model.pkl"
     catBoost_model = joblib.load(catBoost_model_path)
     return catBoost_model
 def valiadation(y_test, y_pred, y_score):
